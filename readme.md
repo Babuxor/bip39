@@ -1,3 +1,10 @@
+# WIP
+
+Trying to include cryptos added in Coinomi tools.
+Need to fix Decred
+Everything else seems to work but more testing will be done.
+Need to check if there are any conflicts and to clean some libs to reduce the size of the html file.
+
 # BIP39 Tool
 
 A tool for converting BIP39 mnemonic phrases to addresses and private keys.
